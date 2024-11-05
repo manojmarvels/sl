@@ -13,5 +13,5 @@ def deploy(jobname,ip,appname)
 }
 def test(jobame)
 {
-  sh "/var/lib/jenkins/${jobame}/testig.jar"
+  sh "/var/lib/jenkins/${jobame}/testing.jar"
 }
